@@ -17,10 +17,10 @@ To run this project, you need the following:
 
 ## Usage
 
-### 1. Clone or Download the repo:
+###  Clone or Download the repo:
 You can either clone the repository or download the zip file.
 
-### 2. Command for git clone:
+###  Commands for git clone:
 - `git clone https://github.com/mohamedabdulkadar788/Volume-Control-by-Hand-Computer-Vision-Project-.git`
 - `cd Volume-Control-by-Hand-Computer-Vision-Project--main`
 - Then run `pip install -r requirements.txt` in your terminal of the project.
