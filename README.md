@@ -22,6 +22,6 @@ You can either clone the repository or download the zip file.
 
 ###  Commands for git clone:
 - `git clone https://github.com/mohamedabdulkadar788/Volume-Control-by-Hand-Computer-Vision-Project-.git`
-- `cd Volume-Control-by-Hand-Computer-Vision-Project--main`
+- Go to the project directory => `cd Volume-Control-by-Hand-Computer-Vision-Project--main`
 - Then run `pip install -r requirements.txt` in your terminal of the project.
 - Then run the file named `Volume_Control_Hand.py`.
